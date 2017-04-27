@@ -1,6 +1,6 @@
 # npmtest-imagemin-jpegtran
 
-#### test coverage for  [imagemin-jpegtran (v5.0.2)](https://github.com/imagemin/imagemin-jpegtran#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-imagemin-jpegtran.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-imagemin-jpegtran) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-imagemin-jpegtran.svg)](https://travis-ci.org/npmtest/node-npmtest-imagemin-jpegtran)
+#### basic test coverage for  [imagemin-jpegtran (v5.0.2)](https://github.com/imagemin/imagemin-jpegtran#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-imagemin-jpegtran.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-imagemin-jpegtran) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-imagemin-jpegtran.svg)](https://travis-ci.org/npmtest/node-npmtest-imagemin-jpegtran)
 
 #### jpegtran imagemin plugin
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-imagemin-jpegtran/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-imagemin-jpegtran/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-imagemin-jpegtran/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-imagemin-jpegtran/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-imagemin-jpegtran/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-imagemin-jpegtran/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-imagemin-jpegtran/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-imagemin-jpegtran/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-imagemin-jpegtran/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-imagemin-jpegtran/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-imagemin-jpegtran/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-imagemin-jpegtran/build/coverage.html/index.html)
 
@@ -102,7 +102,8 @@
     "version": "5.0.2",
     "xo": {
         "esnext": true
-    }
+    },
+    "bin": {}
 }
 ```
 
